@@ -1,0 +1,5 @@
+c:\users\ogbe\documents\visual studio 2013\Projects\Chess No Fish Api\Chess No Fish Api\obj\Debug\Chess No Fish Api.csprojResolveAssemblyReference.cache
+c:\users\ogbe\documents\visual studio 2013\Projects\Chess No Fish Api\Chess No Fish Api\bin\Debug\Chess No Fish Api.dll
+c:\users\ogbe\documents\visual studio 2013\Projects\Chess No Fish Api\Chess No Fish Api\bin\Debug\Chess No Fish Api.pdb
+c:\users\ogbe\documents\visual studio 2013\Projects\Chess No Fish Api\Chess No Fish Api\obj\Debug\Chess No Fish Api.dll
+c:\users\ogbe\documents\visual studio 2013\Projects\Chess No Fish Api\Chess No Fish Api\obj\Debug\Chess No Fish Api.pdb
