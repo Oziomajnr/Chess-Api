@@ -8,9 +8,10 @@ namespace Chess_No_Fish_Api
 {
    public class Pawn : Chess_Pieces
     {
+
         public Pawn(Color color)
         {
-            Color = color;
+            this.color = color;
         }
     }
 }

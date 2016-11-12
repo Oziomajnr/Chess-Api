@@ -8,14 +8,6 @@ namespace Chess_No_Fish_Api
 {
   public abstract class Chess_Pieces
     {
-        protected  Color Color;
-        public Color get_Color()
-        { 
-        return Color;
-        }
-       
-
-        
-
+        public Color color { get; set; }
     }
 }
