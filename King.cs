@@ -8,9 +8,10 @@ namespace Chess_No_Fish_Api
 {
    public class King : Chess_Pieces
     {
+       
         public King(Color color)
         {
-            Color = color;
+            this.color = color;
         }
     }
 }

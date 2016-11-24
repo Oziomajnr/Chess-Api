@@ -3,3 +3,8 @@ c:\users\ogbe\documents\visual studio 2013\Projects\Chess No Fish Api\Chess No F
 c:\users\ogbe\documents\visual studio 2013\Projects\Chess No Fish Api\Chess No Fish Api\bin\Debug\Chess No Fish Api.pdb
 c:\users\ogbe\documents\visual studio 2013\Projects\Chess No Fish Api\Chess No Fish Api\obj\Debug\Chess No Fish Api.dll
 c:\users\ogbe\documents\visual studio 2013\Projects\Chess No Fish Api\Chess No Fish Api\obj\Debug\Chess No Fish Api.pdb
+C:\Users\SQ-OGBE PC\Documents\Visual Studio 2015\Projects\Chess-Api\obj\Debug\Chess No Fish Api.csprojResolveAssemblyReference.cache
+C:\Users\SQ-OGBE PC\Documents\Visual Studio 2015\Projects\Chess-Api\bin\Debug\Chess No Fish Api.dll
+C:\Users\SQ-OGBE PC\Documents\Visual Studio 2015\Projects\Chess-Api\bin\Debug\Chess No Fish Api.pdb
+C:\Users\SQ-OGBE PC\Documents\Visual Studio 2015\Projects\Chess-Api\obj\Debug\Chess No Fish Api.dll
+C:\Users\SQ-OGBE PC\Documents\Visual Studio 2015\Projects\Chess-Api\obj\Debug\Chess No Fish Api.pdb

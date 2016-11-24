@@ -10,7 +10,7 @@ namespace Chess_No_Fish_Api
     {
         public Knight(Color color)
         {
-            Color = color;
+            this.color = color;
         }
     }
 }
