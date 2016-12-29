@@ -10,6 +10,7 @@ namespace Chess_No_Fish_Api
     {
         public Rook(Color color)
         {
+        	//initialise piece color
             this.color = color;
         }
     }
