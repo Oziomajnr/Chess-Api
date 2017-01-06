@@ -49,8 +49,8 @@ namespace Chess_No_Fish_Api
            Board[6, 5] = new Pawn(Color.BLACK);
            Board[6, 6] = new Pawn(Color.BLACK);
            Board[6, 7] = new Pawn(Color.BLACK);
-
-           //the remaining squres in the chess board is alredy empty
+           
+           //the remaining squres in the chess board is already empty
        }
    
        public void clearChessBoard(){
