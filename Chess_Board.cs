@@ -49,8 +49,8 @@ namespace Chess_No_Fish_Api
            Board[6, 5] = new Pawn(Color.BLACK);
            Board[6, 6] = new Pawn(Color.BLACK);
            Board[6, 7] = new Pawn(Color.BLACK);
-           
-           //the remaining squres in the chess board is already empty
+          //the remaining sqares in the chess board is already initialised as null 
+          //an empty cell has a null value
        }
    
        public void clearChessBoard(){
@@ -101,7 +101,7 @@ namespace Chess_No_Fish_Api
               Board[6, 5] = new Pawn(Color.BLACK);
               Board[6, 6] = new Pawn(Color.BLACK);
               Board[6, 7] = new Pawn(Color.BLACK);
-//reset the 3rd to 6th row of the chessboard to null of the chessboard to null
+              //reset the 3rd to 6th row of the chessboard to null 
             for(int x = 2; x<=5; x++)
                 for (int y = 0; y <= 7; y++ )
                     Board[x, y] = null;

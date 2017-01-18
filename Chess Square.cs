@@ -8,6 +8,7 @@ namespace Chess_No_Fish_Api
 {
    public class Chess_Square
     {
+        public string name { get; set; }
         public int x { get; set; }
         public int y { get; set; }
 

@@ -4,6 +4,14 @@ namespace Chess_No_Fish_Api
 {
    public static class Validate_Moves
     {
+        /// <summary>
+        /// Check if a given move is valid using the source and destination square
+        /// </summary>
+        /// <param name="board"></param>
+        /// <param name="source_square"></param>
+        /// <param name="destination_square"></param>
+        /// <param name="pawn"></param>
+        /// <returns></returns>
        public static bool is_Valid_Move(Chess_Board board, Chess_Square source_square, Chess_Square destination_square, Pawn pawn )
         {
            if(validateGeneral(board, source_square,destination_square) == false)
@@ -65,9 +73,11 @@ namespace Chess_No_Fish_Api
           
           return true;
       }
-
-      
-
+    private static bool kingInCheck(Color color)
+        {
+            // to know if the king is in check, we start from the king square and scan outwards to see if any piece is attacking it
+            return false;
+        }
         
     }
 }
